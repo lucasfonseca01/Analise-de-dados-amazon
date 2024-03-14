@@ -1,0 +1,57 @@
+## Dicionário de dados em ingles
+
+### This project is all about taking a closer look at the books available on Amazon. We've collected information on different types of genres, sub-genres, and individual books like their titles, authors, prices, and ratings. By digging into this data, we hope to learn interesting things about what kinds of books are popular, how they're priced, and what people like to read. This can help us understand more about the world of books and what makes them tick on Amazon.
+
+Dataset 1: Genre
+
+    Title: This column contains the main genres of books available on Amazon.
+    Number of Sub-genres: Indicates the count of sub-genres associated with each main genre.
+    URL: Provides the link to the page on Amazon where books of this genre are listed.
+
+Dataset 2: SubGenre
+
+    Title: Lists the specific sub-genres within each main genre.
+    Main Genre: Indicates the overarching genre to which each sub-genre belongs.
+    No. of Books: Shows the count of books categorized under each sub-genre.
+    URL: Provides the link to the page on Amazon where books of this sub-genre are listed.
+
+Dataset 3: Books
+
+    Title: The title of the book.
+    Author: Name of the author or publication house.
+    Main Genre: The main genre the book belongs to.
+    Sub Genre: The specific sub-genre of the book.
+    Type: Indicates the format of the book, such as paperback, Kindle, audiobook, or hardcover.
+    Price: The price of the book.
+    Rating: The average rating of the book given by users.
+    No. of People Rated: Indicates the count of users who have rated the book.
+    URLs: Provides the link to the book's page on Amazon for further details and purchase options.
+
+## Dicionário de dados em português
+
+### Este projeto tem como objetivo analisar os livros disponíveis na Amazon. Coletamos informações sobre diferentes gêneros, subgêneros e livros individuais, como seus títulos, autores, preços e avaliações. Ao analisar esses dados, esperamos descobrir informações interessantes sobre quais tipos de livros são populares, como são precificados e o que as pessoas gostam de ler. Isso pode nos ajudar a entender mais sobre o mundo dos livros e o que os torna populares na Amazon.
+
+Conjunto de Dados 1: Gênero
+
+    Título: Esta coluna contém os principais gêneros de livros disponíveis na Amazon.
+    Número de Subgêneros: Indica a contagem de subgêneros associados a cada gênero principal.
+    URL: Fornece o link para a página na Amazon onde os livros desse gênero estão listados.
+
+Conjunto de Dados 2: Subgênero
+
+    Título: Lista os subgêneros específicos dentro de cada gênero principal.
+    Gênero Principal: Indica o gênero abrangente ao qual cada subgênero pertence.
+    Número de Livros: Mostra a contagem de livros categorizados em cada subgênero.
+    URL: Fornece o link para a página na Amazon onde os livros desse subgênero estão listados.
+
+Conjunto de Dados 3: Livros
+
+    Título: O título do livro.
+    Autor: Nome do autor ou editora.
+    Gênero Principal: O gênero principal ao qual o livro pertence.
+    Subgênero: O subgênero específico do livro.
+    Tipo: Indica o formato do livro, como brochura, Kindle, audiolivro ou capa dura.
+    Preço: O preço do livro.
+    Avaliação: A avaliação média do livro dada pelos usuários.
+    Número de Pessoas que Avaliaram: Indica a contagem de usuários que avaliaram o livro.
+    URLs: Fornece o link para a página do livro na Amazon para mais detalhes e opções de compra.
