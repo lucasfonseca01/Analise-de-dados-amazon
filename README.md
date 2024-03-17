@@ -21,3 +21,13 @@ Com as avaliações fornecidas pelos usuários com notas, foi possível notar qu
 
 Os principais autores e editoras que mais postam livros na Amazon são: Wonder House Books, Maple Press, Jeff Kinney e J.K. Rowling. Porém, os autores e editoras com o maior número de avaliações em subgêneros no top 1, 2 e 3 é composto pela dobradinha de J.K. Rowling, onde os três subgêneros são divididos entre Fantasy, Fantasy, Horror & Science Fiction e Fantasy, Science Fiction & Horror.
 
+ ### Ações
+1: Dada a diversidade de preferências dos clientes identificada na análise, é recomendável adotar uma abordagem de segmentação de mercado mais refinada. Isso pode envolver o direcionamento de campanhas de marketing específicas para diferentes grupos demográficos ou interesses de leitura, personalizando a experiência do cliente e aumentando a relevância das ofertas da empresa.
+
+2: Considerando os gêneros e subgêneros mais listados na Amazon, recomenda-se diversificar o estoque da empresa para incluir uma ampla variedade de produtos nessas categorias populares. Isso pode aumentar a atratividade da empresa para os clientes e impulsionar as vendas.
+
+3: Para aumentar a fidelidade e a satisfação do cliente, pode-se incluir recomendações personalizadas com base nas preferências dos clientes e fornecendo um serviço de atendimento ao cliente excepcional.
+
+4: Constantemente realizar avaliação cuidadosa da estratégia de precificação, isso pode envolver a introdução de opções de preço mais acessíveis, promoções especiais ou programas de fidelidade para garantir que os produtos estejam acessíveis a uma ampla gama de clientes.
+
+5: Buscar estabelecer parcerias estratégicas com autores e editoras de destaque, como por exemplo Jeff Kinney e J.K. Rowling, pode fortalecer a oferta de produtos exclusivos e atrair um público mais amplo. Essas parcerias podem incluir colaborações para lançamentos exclusivos, eventos de autógrafos ou promoções conjuntas.
